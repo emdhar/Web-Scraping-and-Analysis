@@ -1,2 +1,4 @@
 # Web-Scraping-and-Analysis
 The objective of this assignment is to extract a dataset from a set of web pages and use Python to prepare, analyse, and derive insights from the collected data.
+# Key Insights about the Second Hand Market
+The resale market for cars seems to be growing in the favour of SUVs in top 5 counties in Ireland. The customer's prefer cars that are 6-7years old, however, that differs between the classification types. 5-7years old SUVs and Hatchbacks are preferred while the others can go upto 10-12 years of age during resale. November seems to be the highest grossing month in terms of sales, most likely due to festival season and discounts offered. The inverse relationship holds true between Miles Run and Sale Price especially in the case of high-end cars. Diesel cars dominate the second hand market more than petrol while electric is only making its debut.
